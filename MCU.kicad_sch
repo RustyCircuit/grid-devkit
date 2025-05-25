@@ -28686,6 +28686,7 @@
 	(symbol
 		(lib_id "power:+1V1")
 		(at 58.42 165.1 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29223,7 +29224,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b/00000000-0000-0000-0000-00005d757c78"
 					(page "8")
 				)
@@ -29325,7 +29326,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b/00000000-0000-0000-0000-00005d757c78"
 					(page "9")
 				)

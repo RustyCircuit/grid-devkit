@@ -3008,7 +3008,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b"
 					(page "4")
 				)
@@ -3110,7 +3110,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b"
 					(page "2")
 				)
@@ -3232,7 +3232,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b"
 					(page "3")
 				)
@@ -3314,7 +3314,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b"
 					(page "7")
 				)
@@ -3476,7 +3476,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b"
 					(page "5")
 				)
@@ -3638,7 +3638,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b"
 					(page "6")
 				)
@@ -3720,7 +3720,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b"
 					(page "10")
 				)
@@ -3792,7 +3792,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b"
 					(page "21")
 				)
@@ -3864,7 +3864,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b"
 					(page "22")
 				)
@@ -3976,7 +3976,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b"
 					(page "11")
 				)
@@ -4178,7 +4178,7 @@
 			)
 		)
 		(instances
-			(project "grid-devkit-vnsx"
+			(project "grid-devkit"
 				(path "/e5217a0c-7f55-4c30-adda-7f8d95709d1b"
 					(page "12")
 				)
