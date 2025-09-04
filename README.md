@@ -2,6 +2,8 @@
 
 KiCad PCB designed to interoperate with the [Intech Studio](https://github.com/intechstudio) Grid ecosystem. This devkit is a fork of [Intech's VSNX hardware design](https://github.com/intechstudio/grid-hardware/tree/master/Electrical/Design/PCBA-VSNX), adapted to fill a gap between fully-developed hardware and breadboard/DIY controller designs.
 
+<img width="1466" height="971" alt="image" src="https://github.com/user-attachments/assets/c80356bd-9be1-4364-81b2-a736a3323e7b" />
+
 ### KiCad Libraries
 
 Custom libraries needed to be loaded into KiCad are found in [Intech's `grid-hardware` repo](https://github.com/intechstudio/grid-hardware).
