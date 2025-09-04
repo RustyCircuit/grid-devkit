@@ -3814,8 +3814,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d6317e2")
 		(property "Reference" "J501"
 			(at 73.66 50.8 90)
@@ -3835,7 +3835,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "suku_basics:J_INTERFACE_SPRINGPATTERN"
+		(property "Footprint" "Connector_Molex:Molex_Nano-Fit_105309-xx04_1x04_P2.50mm_Vertical"
 			(at 63.5 48.26 0)
 			(effects
 				(font
